@@ -1,6 +1,6 @@
 This is a collection of scripts used for the temperature humidity sensor in the room where our lizards are housed. To use, run Temp_Hum_Sensor.py. Make sure to set a proper csv path to write to within the script.
 
-Created and written by Aditya Rao (ar4210@columbia.edu)
+By Aditya Rao (ar4210@columbia.edu)
 
 ## Temp_Hum_Sensor.py
 This is the main code for the temperature and humidity graphical user interface. It displays temperatures and humidities for each cage, as well as the room as a whole.
